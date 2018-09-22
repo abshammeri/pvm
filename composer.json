@@ -1,7 +1,7 @@
 {
-    "name": "formapro/pvm",
+    "name": "formapro/pv3m",
     "license": "MIT",
-    "type": "lib",
+    "type": "lib3",
     "description": "The library provides us with a frame to build a workflow or a business process such as BPMN. Could execute tasks in parallel or delayed tasks",
     "keywords": [
         "process",
